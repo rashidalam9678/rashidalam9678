@@ -3,10 +3,8 @@
 </div>  
   
 
-### <div align="center">I'm Rashid, a full-stack developer 👨‍💻 and final year Computer Science and Engineering candidate 🚀</div>  
+### <div align="center">I'm Rashid, a full-stack developer 👨‍💻  🚀</div>  
   
-
-- ❓ Ask me about anything related to the MERN stack and related technologies  
   
 
 
